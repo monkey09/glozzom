@@ -1,0 +1,159 @@
+body{
+	overflow-x: hidden;
+}
+
+
+/* start nav bar*/
+
+.navbar{
+	padding-bottom: 0px;
+}
+
+.navbar .nav-link{
+	font-size:14px;
+	padding:1em 1em !important;
+}
+
+.nav-item.active{
+	border-bottom: 3px solid #568AF2;
+
+}
+
+/* end nav bar*/
+
+/* start carousel */
+
+#showcase .carousel-item{
+	height:600px;
+}
+
+.carousel-image-1,
+.carousel-image-2,
+.carousel-image-3{
+	background-size: cover;
+}
+
+.carousel-image-1{
+	background-image: url('../images/image1.jpg');
+}
+
+.carousel-image-2{
+	background-image: url('../images/image2.jpg');
+	background-size: cover;
+}
+
+.carousel-image-3{
+	background-image: url('../images/image3.jpg');
+}
+
+/* end carousel */
+
+/* start icon section */
+
+#home-icons .fa{
+	font-size: 55px;
+}
+
+/* end icon section */
+
+/* start home heading section */
+
+#home-heading {
+	position: relative;
+	min-height:200px;
+	background-image: url('../images/lights.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+.dark-overlay{
+	position: absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	background-color: rgba(0,0,0,0.7);
+}
+
+/* end home heading section */
+
+/* start video play section */
+
+#video-play {
+	position: relative;
+	min-height:200px;
+	position: 0 -300px;
+	background-image: url('../images/media.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+#video-play h1{
+	margin-bottom:0;
+}
+
+#video-play .fa{
+	font-size:55px;
+	color:#FFF;
+	transition: color .4s ease-in-out;
+}
+
+#video-play .fa:hover{
+	color: #F00;
+}
+
+/* end video play section */
+
+/* start about page */
+
+#about-header{
+	background-image: url('../images/image2.jpg');
+	background-size: cover;
+	background-attachment:fixed;
+	min-height:300px;
+	background-repeat: no-repeat;
+	background-position:0 -360px;
+}
+
+#about-content .about-img{
+	margin-top: -80px;
+	border-radius: 50%;
+	transition: all .6s ease-in-out;
+	box-shadow: 5px 0px 5px 4px #000
+}
+
+#about-content .about-img:hover{
+	transform: rotateY(180deg);
+}
+
+#icon-boxes .fa{
+	font-size: 50px;
+}
+
+#testimonial .carousel-item{
+	height:300px;
+}
+
+/* end about page */
+
+/* start services Page */
+
+#faq .card{
+	border: #444;
+}
+
+#faq a{
+	color: #DC3545;
+	text-decoration: none;
+}
+
+#faq .card-body, #faq .card-header{
+	background-color: #333;
+}
+
+/* end services Page */
+
+/* start blog page */
+
+
+/* end blog page */
