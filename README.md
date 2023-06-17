@@ -1,1 +1,5 @@
-![mob](https://user-images.githubusercontent.com/62831955/222869847-dd10e3c3-5399-488e-b4ad-9bd4404c4aca.jpg)
+![page1](https://github.com/monkey09/glozzom/assets/62831955/5850444b-2d4f-4179-b1e8-4d3bd3e9b23b)
+![page2](https://github.com/monkey09/glozzom/assets/62831955/970ed51b-bd43-4ea6-bb5e-81d10bbafa5e)
+![page3](https://github.com/monkey09/glozzom/assets/62831955/6c0027c0-8340-46a7-be35-96a82d46ea96)
+![page4](https://github.com/monkey09/glozzom/assets/62831955/b2c3e810-697d-4c0b-8d08-c55b71e0fc2b)
+![page5](https://github.com/monkey09/glozzom/assets/62831955/9ef04da9-c265-4312-bb84-119948980a65)
